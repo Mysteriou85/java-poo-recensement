@@ -4,3 +4,9 @@
 .classpath
 .project
 *.class
+target
+*.jar
+.idea
+.settings
+*.iml
+.metadata
